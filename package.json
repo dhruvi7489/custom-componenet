@@ -7,7 +7,7 @@
       "email": "dhruvi7489@gmail.com"
     },
     "repository": {
-      "type": "bitbucket",
+      "type": "git",
       "url": "https://github.com/dhruvi7489/custom-componenet"
     },
     "peerDependencies": {
