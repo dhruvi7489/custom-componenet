@@ -9,4 +9,4 @@ import { CustomButtonComponent } from './custom-button.component';
   ],
   exports: [CustomButtonComponent]
 })
-export class NgCustomButtonModule { }
+export class CustomButtonModule { }
